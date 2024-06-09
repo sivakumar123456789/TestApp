@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>I LOVE YOU </h2>
+<marquee>I LOVE YOU </marquee>
 </body>
 </html>
